@@ -138,3 +138,5 @@ jQuery.extend( jQuery.easing,
 		return jQuery.easing.easeOutBounce (x, t*2-d, 0, c, d) * .5 + c*.5 + b;
 	}
 });
+
+console.warn("%cHi there, I'm Ramiro Canevari, just want to tell you that I made this one-page in one weekend, that's why may have some issues, but in any case, just image what can i make with more time.", "font-size: 12px; color: white; background-color: black;")
